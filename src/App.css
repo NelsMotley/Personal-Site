@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background-color: #d4d4d2;
+  background-image: url('bitmap.png');
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+   min-height: 100vh;
+   display: flex;
+
 }
 
 .App-logo {
@@ -14,9 +23,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
+  
+ 
+  
   flex-direction: column;
   align-items: center;
   justify-content: center;
