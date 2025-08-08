@@ -1,0 +1,8 @@
+.MuiGrid-container {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.MuiGrid-item {
+  box-sizing: border-box;
+}

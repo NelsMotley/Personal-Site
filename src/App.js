@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './Header.js'
+import Articles from './Articles.js';
 
 function App() {
   return (
@@ -9,13 +10,12 @@ function App() {
       
       
         <Header/>
-        
-        
-        
+        <Articles/>
         
         
     
     </div>
+    
   );
 }
 
